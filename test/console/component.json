@@ -1,0 +1,5 @@
+{
+  "name": "geom-test",
+  "paths": ["../../.."],
+  "local": ["geom"]
+}

@@ -9,6 +9,8 @@
   "main": "index.js",
   "scripts": [
     "index.js",
-    "lib/point.js"
+    "lib/point.js",
+    "lib/vector.js",
+    "lib/rect.js"
   ]
 }
