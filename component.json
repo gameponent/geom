@@ -1,6 +1,6 @@
 {
   "name": "geom",
-  "repo": "gameponents/geom",
+  "repo": "gameponent/geom",
   "description": "Component for point, vector and rect manipulation",
   "version": "0.0.1",
   "dependencies": {},
